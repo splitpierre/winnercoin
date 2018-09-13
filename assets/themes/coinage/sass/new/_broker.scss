@@ -1,0 +1,20 @@
+.broker-terms__iframe {
+    height: 400px;
+    width: 100%;
+    border: 1px solid #ddd
+}
+
+.broker-wallet {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.broker-wallet__table {
+  table-layout: fixed;
+
+  td.broker-wallet {
+    word-wrap: break-word;
+  }
+}
